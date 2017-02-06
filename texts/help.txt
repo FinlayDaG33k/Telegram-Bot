@@ -1,0 +1,3 @@
+/help - Show the help dialog
+/ping - pong 
+/start - Show the welcome message

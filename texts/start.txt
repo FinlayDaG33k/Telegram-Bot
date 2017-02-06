@@ -1,0 +1,2 @@
+This is the default welcome message!
+Edit `texts/start.txt` to change it!
